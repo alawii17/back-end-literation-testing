@@ -17,8 +17,10 @@ composer update
 npm install
 ```
 4. Sesuaikan konfigurasi database di file src/db.js, database menggunakan Postgresql
+   
+5. Jalankan server Database
 
-5. Jalankan perintah untuk menjalankan Project
+6. Jalankan perintah untuk menjalankan Project
 ```sh
 npm run start
 ```
